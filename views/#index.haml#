@@ -1,0 +1,12 @@
+!!!
+%html
+  %head
+    %title MD2HTX
+    %link{rel: "stylesheet", href: "style.css"}    
+  %body
+    #container
+      %img{style: "background:url("}
+      %img#text{src: "images/md2htx.png"}      
+      
+    
+    
